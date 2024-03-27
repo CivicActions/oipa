@@ -2,6 +2,8 @@
 
 # Introducing Issue Metrics GitHub Action: metrics for issues, pull requests, and discussions
 
+NOTE: I DO THINK THAT THIS IS SOMETHING WE SHOULD EXPLORE.
+
 ## Data-driven insights
 
 At GitHub, we believe that data-driven insights are the keys to success for any software development project. Understanding the health and progress of your issues, pull requests, and discussions is crucial for effective collaboration, maintainership, and project management.
