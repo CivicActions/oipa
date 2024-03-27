@@ -1,21 +1,18 @@
-![Project banner](/images/github-open-source-erica.jpeg)
+# CivicActions Open Innoviation Practice Area - DRAFT
 
-# github-ospo
+CivicActions is building off the GitHub's Open Source Project Office (OSPO) framework to build out an Open Innovation Practice Area (OIPA) for our team. 
 
-Helping open source program offices (OSPOs) get started
-
-The purpose of this repo is to enable new OSPOs to be successful on GitHub. On behalf of the GitHub OSPO we are sharing our policies, tools, and best practices to guide you through the first 6-12 months of your organization's open source journey. There are also other OSPO guides and resources available through [TODO](https://todogroup.org/) & [OSPO Alliance](https://ospo.zone/) as well as [opensource.guide](https://opensource.guide/). This repo will focus on GitHub related tools and content.
+We want to build onto and contribute back to the work of OSPOs and build on their policies, tools, and best practices. We also want to leverage our 20 years of experience as an open source first company, to help frame the next 20 years of innovation. We thank folks like [TODO](https://todogroup.org/) & [OSPO Alliance](https://ospo.zone/), [opensource.guide](https://opensource.guide/) and [Open Practice Library](https://openpracticelibrary.com/) for their extensive contributions to this space. We will be building out CivicTech tools and content that we can leverage with our digital government clients. 
 
 ## Adopting and adapting
 
-Feel free to use, modify, and adopt these policies, procedures, and guides. They are open source! :tada: If you are adopting them, run through and do a quick search for the following:
+TODO: search/replace the following:
 
 - `XXX`
 - `<COMPANY_NAME>`
 - `<LEGAL_CONTACT>`
 - `<OPEN_SOURCE_MAILBOX>`
-
-We have used those as placeholder values where our policies point to internal only documentation, internal teams, or to GitHub as a company rather than the product. Also search for the `@` so that you can update any email addresses with the proper ones for your company.
+- `@`
 
 ## Directory
 
@@ -58,7 +55,10 @@ In addition to the information in this repository, we've also released a number 
 
 ### Maintainers
 
-GitHub OSPO team
+CivicActions Open Inovation Practice Area
+
+Initially forked from:
+- GitHub OSPO team
 
 ### Contributions
 
