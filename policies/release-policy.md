@@ -1,7 +1,6 @@
-# 🛳️ Release policy
+# 🛳️ Release policy DRAFT
 
-While releasing <COMPANY_NAME> code as open source is highly encouraged, we also need to be mindful that we shouldn't be giving away code that
-could be used by competitors to undermine our core business.
+While releasing CivicActions code as open source is highly encouraged, we also need to be mindful that we shouldn't be giving away code that could be used by competitors to undermine our core business.
 
 ## 🖇️ Process
 
@@ -21,7 +20,7 @@ If you are looking to release non-product code (such as utility libraries, tools
 
 ## 🏡 Location
 
-All <COMPANY_NAME> open source on GitHub must live in a [<COMPANY_NAME>-managed organization](XXX). These are projects that employees create as part of their jobs.
+All public CivicActions open source on GitHub must live in a [<COMPANY_NAME>-managed organization](XXX). These are projects that employees create as part of their jobs.
 Of course existing projects with their own multi-stakeholder governance like Homebrew belong within that community.
 But the vast majority of projects will go into the [<COMPANY_NAME> organization](https://github.com/<COMPANY_NAME>).
 
