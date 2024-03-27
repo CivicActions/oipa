@@ -1,5 +1,7 @@
 # Maximizing organization's public presence on GitHub
 
+NOTE: WE SHOULD GO THROUGH THIS AND UND VERIFY THAT THIS HAS BEEN DONE.
+
 ## Creating and customizing open source organizations on GitHub
 
 ### Organization creation
@@ -14,7 +16,7 @@ Ownership of the organization is important to note here. Does this organization 
 
 ### Organization profile page
 
-Navigate to `https://github.com/<ORG_NAME>`. Here is an example of what a profile page starts out looking like.
+Navigate to `https://github.com/civicactions`. Here is an example of what a profile page starts out looking like.
 
 ![New profile example](/images/chewco-example.png)
 
