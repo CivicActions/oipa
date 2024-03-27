@@ -1,4 +1,6 @@
-# CivicActions and Open Source Foundations and Organizations
+# CivicActions and Open Source Foundations and Organizations DRAFT
+
+NOTE: I'M NOT SURE THAT THIS APPLIES. WE SHOULD CONSIDER IF WE SHOULD BE LISTING THIS AND DECIDE HOW OR IF WE MANAGE OPEN SOURCE FOUNDATIONS. 
 
 CivicActions supports many open source foundations and standards organizations on our platform, and there are times when it makes sense for CivicActions to support these organizations in additional ways through sponsorships, memberships, or joining their board.
 
