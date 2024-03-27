@@ -2,6 +2,8 @@
 
 ![Swirling design graphic](https://github.blog/wp-content/uploads/2023/12/Productivity-LightMode-2.png?resize=1200%2C630)
 
+NOTE: THIS COULD BE SOMETHING WE SHOULD BE EXPLORING. 
+
 Keeping your repositories' dependencies up to date is crucial for maintaining quality and security. Outdated dependencies can expose your project to vulnerabilities, compromise its stability, and hinder its overall performance. In order to answer this question for ourselves, we created a [GitHub Action: Evergreen](https://github.com/github/evergreen).
 
 ## The challenge of dependency management
