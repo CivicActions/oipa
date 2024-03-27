@@ -1,6 +1,7 @@
-# Releasing an Open Source Project 🛳️
+# Releasing an Open Source Project 🛳️ DRAFT
 
-<COMPANY_NAME> encourages you to release code as an open source project. The [Release Policy](release-policy.md) details the requirements.  
+CivicActions encourages you to release code as an open source project. The [Release Policy](release-policy.md) details the requirements.  
+
 The following steps should be taken to release and maintain your open source project using the MIT license:
 
 1. **Register your release**. Create an issue in the XXX repo to register your intended release.
