@@ -19,7 +19,7 @@ It explicitly asks for contributions, if you want them, with a link to CONTRIBUT
 It includes a description of the kind of environment required to run the software and instructions for setting it up.
 It clearly states the external dependencies and directions for installing them.
 
-Be sure to follow the [<COMPANY_NAME> logo guidelines](XXX).
+Be sure to follow the [CivicActions logo guidelines](XXX).
 
 ## License
 

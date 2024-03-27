@@ -9,9 +9,8 @@ We want to build onto and contribute back to the work of OSPOs and build on thei
 TODO: search/replace the following:
 
 - `XXX`
-- `<COMPANY_NAME>`
-- `<LEGAL_CONTACT>`
-- `<OPEN_SOURCE_MAILBOX>`
+- `<LEGAL_CONTACT>` - CivicActions Council
+- `<OPEN_SOURCE_MAILBOX>` - ?? open@civicactions.com ??
 - `@`
 
 ## Directory

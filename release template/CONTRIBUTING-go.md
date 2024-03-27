@@ -1,8 +1,8 @@
 ## Contributing
 
-[fork]: https://github.com/<COMPANY_NAME>/REPO/fork
-[pr]: https://github.com/<COMPANY_NAME>/REPO/compare
-[style]: https://github.com/<COMPANY_NAME>/REPO/blob/main/.golangci.yaml
+[fork]: https://github.com/CivicActions/REPO/fork
+[pr]: https://github.com/CivicActions/REPO/compare
+[style]: https://github.com/CivicActions/REPO/blob/main/.golangci.yaml
 
 Hi there! We're thrilled that you'd like to contribute to this project. Your help is essential for keeping it great.
 
