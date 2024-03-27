@@ -1,4 +1,4 @@
-# Licenses for GitHub open source projects
+# Licenses for GitHub open source projects DRAFT
 
 You have a GitHub project that ought be open source per our [almost everything](XXX) guideline (not core business value, not specific to internal processes, and can be maintained long term) and the items on our [releasing open source task list](releasing.md) look feasible. One of checklist items is **It has a `LICENSE`**.
 
@@ -6,12 +6,14 @@ This document answers "which license?"
 
 **TL;DR:**
 
-- Code → [use MIT](#software)
+- Code → [MIT or GPL](#software)
 - Not code (documentation, media) → [use CC-BY](#content)
 - Snippets, data, boilerplate → [use CC0](#non-substantial-works)
 - Something else, special circumstances → [open an issue in XXX](XXX)
 
 ## Software
+
+NOTE: DO WE WANT THIS TO DEFAULT TO MIT OR GPL? 
 
 Default: MIT
 
