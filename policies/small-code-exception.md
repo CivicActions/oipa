@@ -1,4 +1,4 @@
-# Small Code Exception
+# Small Code Exception DRAFT
 
 If your contribution meets **all** of the following criteria, it meets the small
 code exception and does not need to be registered in this repository.
@@ -36,8 +36,7 @@ If the small code contribution addresses a security vulnerability:
   - DCO: small contributions under a Developer Certificate of Origin (DCO) are
     permitted.
 
-If these conditions do not apply,
-[you must register your contribution](XXX).
+If these conditions do not apply, [you must register your contribution](XXX). NOTE: THIS MAY NOT APPLY AT CIVICACTIONS.
 
 > [!tip] This **Small Code Exception** was previously known as the _de minimus_
 > contribution policy.
