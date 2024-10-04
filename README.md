@@ -1,4 +1,4 @@
-# CivicActions Open Innoviation Practice Area - DRAFT
+# CivicActions Open Innovation Practice Area - DRAFT
 
 CivicActions is building off the GitHub's Open Source Project Office (OSPO) framework to build out an Open Innovation Practice Area (OIPA) for our team. 
 
